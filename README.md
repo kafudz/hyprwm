@@ -1,2 +1,4 @@
-## My Hyprdot
-Yah Begitulah
+## Hyprdot
+```
+Basic config hyprland wayland window manager
+```
